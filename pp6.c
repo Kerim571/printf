@@ -1,6 +1,9 @@
 #include <stdio.h>
 
 int main(void){
-	printf("Hello World\n");
+	printf(".___. \n");
+	printf("{o,o}\n");
+	printf("/)__)\n");
+	printf("-´-´-\n");
 	return 0;
 }	
